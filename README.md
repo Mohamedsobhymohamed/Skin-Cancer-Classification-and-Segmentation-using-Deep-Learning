@@ -1,6 +1,3 @@
-Here's the complete README.md file in Markdown syntax:
-
-```markdown
 # Skin Cancer Classification and Segmentation using Deep Learning (PyTorch)
 
 This project implements **dual deep learning models** for skin cancer analysis:
